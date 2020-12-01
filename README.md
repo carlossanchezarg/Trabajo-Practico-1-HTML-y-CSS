@@ -4,5 +4,5 @@
 
 ## Resultados:
 
-![Resultados p1](res1.jpg)
-![Resultados p2](res1.jpg)
+![alt text](../resultados/res1.png "resultados parte 1")
+![alt text](../resultados/res2.png "resultados parte 2")
