@@ -4,5 +4,5 @@
 
 ## Resultados:
 
-![alt text](../resultados/res1.png "resultados parte 1")
-![alt text](../resultados/res2.png "resultados parte 2")
+![alt text](https://raw.githubusercontent.com/carlossanchezarg/Trabajo-Practico-1-HTML-y-CSS/master/resultados/res1.PNG)
+![alt text](https://raw.githubusercontent.com/carlossanchezarg/Trabajo-Practico-1-HTML-y-CSS/master/resultados/res2.PNG)
